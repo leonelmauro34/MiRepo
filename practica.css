@@ -1,0 +1,57 @@
+h1 {
+
+    color: skyblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: whitesmoke; 
+}
+
+p {
+ color:indigo; 
+}
+
+body {
+    background-image: url(https://i.pinimg.com/originals/ad/ab/41/adab41ec5b5f829e01ac27a7dd9fdfd2.jpg);
+}
+
+button {
+
+    width: 125px;
+    background-color:  gold;
+}
+
+#icon {
+
+    width: 80px;
+    height: 80px;
+}
+
+img {
+width: 140px;
+height: 140px;
+}
+
+footer {
+    background-image: linear-gradient(blue,purple);
+    margin-top: 20px;
+}
+
+textarea {
+    background-image: url(https://www.zma.la/wp-content/uploads/2017/02/fondo-celeste-02-768x411.png);
+}
+
+
+.container {
+    display: grid;
+    grid-template-columns: 500px 300px 300px;
+    grid-template-rows: 200px 100px;
+  
+}
+
+.item {
+    color: lightblue;
+    border: solid;
+    border-width: 3px;
+}
